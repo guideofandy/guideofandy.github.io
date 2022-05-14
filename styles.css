@@ -94,7 +94,7 @@
 
 @keyframes moveUpMoveDown {
 	0% {
-		transform: translateY(1rem);
+		transform: translateY(0rem);
 	}
 	100% {
 		transform: translateY(-2rem);
