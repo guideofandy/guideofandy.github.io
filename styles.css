@@ -94,10 +94,10 @@
 
 @keyframes moveUpMoveDown {
 	0% {
-		transform: translateY(20%);
+		transform: translateY(1rem);
 	}
 	100% {
-		transform: translateY(80%);
+		transform: translateY(-2rem);
 	}
 }
 
